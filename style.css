@@ -5,3 +5,7 @@ body{
     padding: 4em;
     text-align: center;
 }
+
+ul{
+    display: flex;
+}
