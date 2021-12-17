@@ -5,3 +5,8 @@ body{
     padding: 4em;
     text-align: center;
 }
+
+p{
+    font-size: 20px;
+    color: blue;
+}
